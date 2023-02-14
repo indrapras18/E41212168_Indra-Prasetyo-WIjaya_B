@@ -1,1 +1,1 @@
-
+- [x] tugas lurd
