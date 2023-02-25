@@ -1,12 +1,25 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="action_settings">Settings</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
-
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string-array name="country">
+        <item>afghanistan</item>
+        <item>albania</item>
+        <item>algeria</item>
+        <item>american samoa</item>
+        <item>andorra</item>
+        <item>angola</item>
+        <item>anguilla</item>
+        <item>antartica</item>
+        <item>antigua and barbuda</item>
+        <item>argentina</item>
+        <item>armenia</item>
+        <item>aruba</item>
+        <item>australia</item>
+        <item>azerbaijan</item>
+        <item>bangladesh</item>
+        <item>barbados</item>
+        <item>belarus</item>
+        <item>belgium</item>
+    </string-array>
 </resources>
