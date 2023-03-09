@@ -4,3 +4,5 @@
 - [x] Membuat tampilan dengan menggunakan Linear layout,Relative dan Constraint
 # Tugas Minggu 3 
 - [x] Membuat tampilan ListView dan RecyclerView
+# Tugas Minggu 5 
+- [x] Membuat Implicit dan Explicit
