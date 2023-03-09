@@ -16,7 +16,6 @@ public class aktifitas2 extends AppCompatActivity {
     Button btnSend;
     private String KEY_NAME = "NAMA";
 
-    @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
