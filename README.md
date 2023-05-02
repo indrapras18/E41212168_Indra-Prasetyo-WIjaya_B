@@ -8,3 +8,5 @@
 - [x] Membuat fragment layout
 # Tugas Minggu 6
 - [x] Membuat Implicit dan Explicit
+# Tugas Minggu 10
+- [x] Membuat Light Sensor dan Proximity Sensor
